@@ -1,6 +1,10 @@
 services:
   app:
-    build: .
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
     volumes:
-      - .:/app
+      - ./react:/app
+    ports:
+      - 3000:3000
     tty: true
