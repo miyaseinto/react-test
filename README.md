@@ -26,3 +26,8 @@
 - React 18
 - TypeScript
 - Docker
+
+## ファイル構成
+- `react` ディレクトリ: Reactプロジェクトのファイル
+- `compose.yml`: Dockerコンテナの設定
+- `.docker/Dockerfile`: Dockerイメージの設定
