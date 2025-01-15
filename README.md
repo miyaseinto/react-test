@@ -31,3 +31,5 @@
 - `react` ディレクトリ: Reactプロジェクトのファイル
 - `compose.yml`: Dockerコンテナの設定
 - `.docker/Dockerfile`: Dockerイメージの設定
+- `.docker/package.json`: Dockerイメージの設定
+- `.docker/package-lock.json`: Dockerイメージの設定
