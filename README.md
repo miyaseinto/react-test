@@ -26,6 +26,7 @@
 - React 18
 - TypeScript
 - Docker
+- cursor
 
 ## ファイル構成
 - `react` ディレクトリ: Reactプロジェクトのファイル
