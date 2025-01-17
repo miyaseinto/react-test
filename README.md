@@ -3,6 +3,7 @@
 ## 環境構築
 - Docker
 - React 18 (TypeScript)
+- cursor
 
 ## 開発環境の起動方法
 1. Reactプロジェクトの作成
